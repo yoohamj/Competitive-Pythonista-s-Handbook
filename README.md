@@ -26,7 +26,7 @@ Looking for a Python version of the "Competitive Programmer's Handbook"?
 
 This project is identical to the "Competitive Programmer's Handbook" written by Antti Laaksonen but with the examples in Python. 
 
-The original Handbook can be found here: https://cses.fi/book/book.pdf
+The original Handbook in C++ can be found here: https://cses.fi/book/book.pdf
 
 <!-- GETTING STARTED -->
 ## Getting Started
