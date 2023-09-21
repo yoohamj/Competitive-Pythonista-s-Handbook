@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yoohamj/Competitive-Pythonista-s-Handbook">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.dbooks.org/img/books/5651943146s.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Competitive Pythonista's Handbook</h3>
@@ -24,7 +24,7 @@
 
 Looking for a Python version of the "Competitive Programmer's Handbook"?
 
-This project is identical to the "Competitive Programmer's Handbook" by Antti Laaksonen but with the examples in Python. 
+This project is identical to the "Competitive Programmer's Handbook" written by Antti Laaksonen but with the examples in Python. 
 
 The original Handbook can be found here: https://cses.fi/book/book.pdf
 
